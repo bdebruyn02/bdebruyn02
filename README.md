@@ -4,7 +4,7 @@
 This is the place where I upload my work or post open-source stuff
 
 - 🔭 I’m currently in College Second Year 😉
-- 🌱 I’m Loving C# & JAVA & ASP.NET 🤣
+- 🌱 I’m Loving C#, JAVA & ASP.NET 🤣
 - 📫 How to reach me: [Twitter][twitter] & [Discord][discord]
 - ⚡ Fun fact: I ❤️ Coding
 
