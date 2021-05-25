@@ -6,6 +6,7 @@ This is the place where I upload my work or post open-source stuff
 - 🔭 I’m currently in College Second Year 😉
 - 🌱 I’m Loving C#, JAVA & ASP.NET 🤣
 - 📫 How to reach me: [Twitter][twitter] & [Discord][discord]
+- 🖥️ I stream on [Twitch][twitch] & [Youtube][youtube]
 - ⚡ Fun fact: I ❤️ Coding
 
 ### Connect with me:
@@ -26,8 +27,37 @@ This is the place where I upload my work or post open-source stuff
 <img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="left" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 
+
 <br />
 <br />
+<hr align = "left" width = "35%"/>
+
+### Databases I know:
+<img align="left" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="MARIADB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+
+
+<br />
+<br />
+<hr align = "left" width = "35%"/>
+
+
+### I'm Currently Learning:
+<img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="left" alt="AZURE" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+
+
+<br />
+<br />
+<hr align = "left" width = "35%"/>
+
+
+### Personal Setup:
+- <img alt="OS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></br>
+- <img alt="CPU" src="https://img.shields.io/badge/Intel-Core_i7_4790-0071C5?style=for-the-badge&logo=intel&logoColor=white" /></br>
+- <img alt="GPU" src="https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></br>
+
 <hr align = "left" width = "35%"/>
 
 ### 📊 GitHub Stats:
@@ -37,12 +67,9 @@ This is the place where I upload my work or post open-source stuff
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordTiger&layout=compact&theme=onedark)
 
 
-
-
-
 [instagram]: https://www.instagram.com/B.DEBRUYN_/
 [twitter]: https://twitter.com/mlordtiger
 [github]: https://github.com/LordTiger
 [discord]: https://discord.gg/kH35raygfa
 [twitch]: https://twitch.tv/mlordtiger
-
+[youtube]: https://www.youtube.com/channel/UCj0p-a1f0kXQrltlfI06EXw
