@@ -69,8 +69,8 @@ This is the place where I upload my work or post open-source stuff
 
 
 [instagram]: https://www.instagram.com/B.DEBRUYN_/
-[twitter]: https://twitter.com/mlordtiger
+[twitter]: https://twitter.com/LordTigerX
 [github]: https://github.com/LordTiger
-[discord]: https://discord.gg/kH35raygfa
+[discord]: https://discord.gg/SsSjPvrVfx
 [twitch]: https://twitch.tv/mlordtiger
 [youtube]: https://www.youtube.com/channel/UCj0p-a1f0kXQrltlfI06EXw
