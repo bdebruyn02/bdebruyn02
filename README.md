@@ -1,16 +1,13 @@
-### Hi there, I'm LordTiger <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Brandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 This is the place where I upload my work or post open-source stuff
 
-- 🔭 I’m currently in College Second Year 😉
-- 🌱 I’m Loving C#, JAVA & ASP.NET 🤣
-- 📫 How to reach me: [Twitter][twitter] & [Discord][discord]
-- 🖥️ I stream on [Twitch][twitch] & [Youtube][youtube]
-- ⚡ Fun fact: I ❤️ Coding
+- 🌱 I’m Loving C#, JAVA & ASP.NET 
+- 📫 How to reach me: [G-Mail][email] & [Discord][discord]
+- ⚡ Fun fact: I'm a hardworking individual
 
 ### Connect with me:
-[<img align="left" alt="mlordtiger | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="mlordtiger | GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
 [<img align="left" alt="mlordtiger | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
@@ -56,7 +53,7 @@ This is the place where I upload my work or post open-source stuff
 
 ### Personal Setup:
 - <img alt="OS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></br>
-- <img alt="CPU" src="https://img.shields.io/badge/Intel-Core_i7_4790-0071C5?style=for-the-badge&logo=intel&logoColor=white" /></br>
+- <img alt="CPU" src="https://img.shields.io/badge/Intel-Core_i7_11700-0071C5?style=for-the-badge&logo=intel&logoColor=white" /></br>
 - <img alt="GPU" src="https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></br>
 
 <hr align = "left" width = "35%"/>
@@ -68,8 +65,8 @@ This is the place where I upload my work or post open-source stuff
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordTiger&layout=compact&theme=onedark)
 
 
-[instagram]: https://www.instagram.com/B.DEBRUYN_/
-[twitter]: https://twitter.com/LordTigerX
+[instagram]: https://www.instagram.com/woahh.b_/
+[email]: b.debruyn02@gmail.com
 [github]: https://github.com/LordTiger
 [discord]: https://discord.gg/SsSjPvrVfx
 [twitch]: https://twitch.tv/mlordtiger
