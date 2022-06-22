@@ -1,4 +1,74 @@
-### Hi there, I'm Brandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Brandon 👋🏼
+
+## About Me🧑🏼‍💻
+
+<table>
+  <tr>
+    <td valign="center">
+      
+🎓 I am currently working as a  **Full Stack Developer**.
+
+🎯 My Goal is to Contribute to as many **open source project** as possible.
+
+✨ I love to create different types of **contents**.
+
+      
+<td >
+      <a href="https://app.daily.dev/LordTiger"><img src="https://api.daily.dev/devcards/33f4db8b3afd495f8a3f5e7d278a4b20.png?r=4s7" width="400" alt="Brandon de Bruyn's Dev Card"/></a>
+    </td>
+    
+  </tr>
+  </table>
+ 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LordTiger&theme=dracula&hide_border=true)
+
+## Connect With Me👋🏼
+
+<p align="left">  
+<a href="https://twitter.com/LordTiger_" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+<a href="https://linkedin.com/in/bdebruyn" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://www.youtube.com/channel/UCj0p-a1f0kXQrltlfI06EXw" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
+<a href="https://www.instagram.com/woahh.b_/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
+
+
+</p>
+    
+## Technologies⚙️
+
+### Languages✍🏼
+
+<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> <img src="https://img.icons8.com/color/35/000000/typescript.png"/> <img src="https://img.icons8.com/color/35/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/35/000000/sql.png"/>
+
+### Frameworks🔨
+<img src="https://img.icons8.com/color/35/000000/angularjs.png"/> <img src="https://img.icons8.com/color/35/000000/ionic.png"/>
+
+### DevOps & Cloud Tools⚒️
+
+<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>   <img src="https://img.icons8.com/color/35/000000/figma--v2.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://img.icons8.com/color/35/000000/github.png"/>
+
+## My Experiences🙌🏼
+
+- [Electron + Angular Project ](https://github.com/LordTiger/td-fivem-launcher): Made a desktop application for FiveM using Electron and Angular, That can be used to launch FiveM servers.
+- [Lua Scripts](https://github.com/LordTiger/FiveM-Scripts): Made a collection of scripts that can be used to make custom FiveM servers.
+
+[<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>]:#
+
+## Stats📈
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lordtiger&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="lordtiger" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lordtiger&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="lordtiger" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lordtiger&theme=highcontrast&hide_border=true" alt="lordtiger" />
+</p>
+  
+  
+## Support Me💰
+
+<a href="https://www.buymeacoffee.com/lordtiger" target="_blank"><img height='35' style='border:0px;height:46px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Buy Me A Coffee' /> 
+
+<!-- ### Hi there, I'm Brandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 This is the place where I upload my work or post open-source stuff
@@ -70,4 +140,4 @@ This is the place where I upload my work or post open-source stuff
 [github]: https://github.com/LordTiger
 [discord]: https://discord.gg/SsSjPvrVfx
 [twitch]: https://twitch.tv/mlordtiger
-[youtube]: https://www.youtube.com/channel/UCj0p-a1f0kXQrltlfI06EXw
+[youtube]: https://www.youtube.com/channel/UCj0p-a1f0kXQrltlfI06EXw -->
